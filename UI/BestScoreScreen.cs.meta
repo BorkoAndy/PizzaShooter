@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7fa52b1bb2fa7c94fa5271b300a25f95
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lastScoreText: {instanceID: 0}
+  - bestScoreText: {instanceID: 0}
+  - GlobalSettings: {fileID: 11400000, guid: 466b1b0fc7124fd4c9feaea6492054ae, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

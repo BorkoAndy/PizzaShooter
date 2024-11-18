@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 11592e8c5d31cc047a12605fc1c498b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pizzaCatchingSound: {fileID: 8300000, guid: 1fc0d4a31b6405a488b64b564de02403, type: 3}
+  - windowBreakingSound: {fileID: 8300000, guid: 36b963f95e54af74eae4da1e131113a2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

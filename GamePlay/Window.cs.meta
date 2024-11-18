@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 81561116c9bc28541a28c7e739b0298a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - brokenWindow: {fileID: 21300000, guid: 3f46c90866b8d68409bf66b2030a84d6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
